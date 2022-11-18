@@ -1,0 +1,7 @@
+" Munmun is the student of Computer Science and Engineering"
+Number of Vowels:19
+Number of Consonants:30
+Vowels:uieoaE
+Consonants:MnmsthdfCrScg
+Started with vowel:is of and Engineering" 
+Started with consonats:Munmun the student Computer Science 

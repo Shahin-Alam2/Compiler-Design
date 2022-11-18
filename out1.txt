@@ -1,0 +1,8 @@
+"Md. Tareq Zaman, Part-3, 2021"
+Number of Words:5
+Number of Digits:5
+Number of Characters:16
+Number of Other Characters:10
+Separated characters:MdTareqZmnPt
+Separated digits:3201
+Separated others:". ,-

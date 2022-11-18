@@ -1,0 +1,8 @@
+"Md. Tareq Zaman, Part - 3,2011"
+Number of words: 5
+Number of letters: 16
+Number of digits: 5
+Number of others characters: 11
+All letters: MdTareqZamanPartÜ
+All digits: 32011
+Others: ".  ,  - ,"
